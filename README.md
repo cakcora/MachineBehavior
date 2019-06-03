@@ -1,5 +1,5 @@
 # Machine Behavior
-Reading list for UT Dallas Data Privacy and Security Lab
+Reading list for UT Dallas Data Privacy and Security Lab (CS) and Data Insights Lab (Statistics)
 
 
 1- Machine behaviour by Rahwan et al. Nature 2019, 10 pages. https://www.nature.com/articles/s41586-019-1138-y.pdf
